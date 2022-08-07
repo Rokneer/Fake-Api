@@ -1,0 +1,39 @@
+{
+  "leaders": 
+  {
+    "scores": 
+      [
+        {
+          "userId": 1,
+          "value": 5,
+          "name":"Julio"
+        },
+        {
+          "userId":2,
+          "value": 2,
+          "name":"Juliazo"
+        },
+        {
+          "userId":3,
+          "value": 4,
+          "name":"Juliño"
+        },
+        {
+          "userId":4,
+          "value": 14,
+          "name":"Juliana"
+        },
+        {
+          "userId":5,
+          "value": 10,
+          "name":"José"
+        }
+      ] 
+  },
+  "users":
+  {
+  },
+  "Achievements":
+  {
+  }
+}
